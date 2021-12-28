@@ -1,6 +1,6 @@
 from datetime import datetime
 
-TIME = datetime.now().replace(microsecond=0).isoformat(sep='')
+TIME = datetime.now().replace(microsecond=0).isoformat()
 
 RESPONSE = {
     'response': None,
