@@ -1,0 +1,13 @@
+2022-01-10 19:27:41,901 - DEBUG    - server   - App started 
+2022-01-10 19:27:41,917 - DEBUG    - chat     - Function "create_parser" is called into"<module>" 
+2022-01-10 19:27:41,927 - DEBUG    - chat     - Function "get_server_socket" is called into"<module>" 
+2022-01-10 19:28:41,275 - DEBUG    - server   - App started 
+2022-01-10 19:28:41,293 - DEBUG    - chat     - Function "create_parser" is called into"<module>" 
+2022-01-10 19:28:41,304 - DEBUG    - chat     - Function "get_server_socket" is called into"<module>" 
+2022-01-10 19:30:31,589 - DEBUG    - server   - App started 
+2022-01-10 19:30:31,604 - DEBUG    - chat     - Function "create_parser" is called into"<module>" 
+2022-01-10 19:30:31,626 - DEBUG    - chat     - Function "get_server_socket" is called into"<module>" 
+2022-01-10 19:30:54,566 - DEBUG    - server   - App started 
+2022-01-10 19:30:54,582 - DEBUG    - chat     - Function "create_parser" is called into"<module>" 
+2022-01-10 19:30:54,593 - DEBUG    - chat     - Function "get_server_socket" is called into"<module>" 
+2022-01-10 19:30:54,596 - INFO     - server   - Server started at 127.0.0.1:7777 
