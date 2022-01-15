@@ -1,0 +1,9 @@
+2022-01-10 19:30:36,617 - DEBUG    - client   - App started 
+2022-01-10 19:30:45,668 - DEBUG    - chat     - Function "create_parser" is called into"main" 
+2022-01-10 19:30:45,680 - DEBUG    - chat     - Function "get_client_socket" is called into"main" 
+2022-01-10 19:30:45,683 - INFO     - client   - Connected server: 127.0.0.1:7777 
+2022-01-10 19:30:45,684 - DEBUG    - chat     - Function "send_data" is called into"main" 
+2022-01-10 19:30:45,684 - INFO     - client   - Presence sended to ('127.0.0.1', 7777):{'action': 'presence', 'time': '2022-01-10T19:30:36', 'type': 'status', 'user': {'account_name': 'y', 'status': 'Yep, I am here!'}} 
+2022-01-10 19:30:45,686 - DEBUG    - chat     - Function "get_data" is called into"main" 
+2022-01-10 19:30:45,699 - ERROR    - client   - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение 
+2022-01-10 19:30:45,699 - DEBUG    - client   - App ending 
