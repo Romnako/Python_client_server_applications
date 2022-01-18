@@ -1,0 +1,4 @@
+2022-01-15 22:03:55,683 - DEBUG   - chat     - Function "get_server_socket" is called into "mainloop"
+2022-01-15 22:04:21,502 - DEBUG   - chat     - Function "get_server_socket" is called into "mainloop"
+2022-01-15 22:07:46,731 - DEBUG   - chat     - Function "get_server_socket" is called into "mainloop"
+2022-01-15 22:09:18,027 - DEBUG   - chat     - Function "get_server_socket" is called into "mainloop"

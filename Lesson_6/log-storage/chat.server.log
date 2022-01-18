@@ -1,0 +1,8 @@
+2022-01-15 21:11:37,299 - INFO     - server   - Client connected from 127.0.0.1:57775 
+2022-01-15 21:11:37,303 - DEBUG    - chat     - Function "get_data" is called into"<module>" 
+2022-01-15 21:11:37,304 - INFO     - server   - Data received from ('127.0.0.1', 57775):{'action': 'presence', 'time': '2022-01-15T21:11:32', 'type': 'status', 'user': {'account_name': 'e', 'status': 'I here!'}} 
+2022-01-15 21:11:37,304 - DEBUG    - chat     - Function "send_data" is called into"<module>" 
+2022-01-15 21:11:37,304 - INFO     - server   - Data sended to ('127.0.0.1', 57775):{'response': '200', 'time': '2022-01-10T19:30:54', 'alert': None, 'from': 'Server', 'contacts': None, 'allert': 'OK'} 
+2022-01-15 21:11:37,306 - DEBUG    - chat     - Function "get_data" is called into"<module>" 
+2022-01-15 21:11:37,307 - ERROR    - server   - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение 
+2022-01-15 21:11:37,307 - DEBUG    - server   - App ending 
